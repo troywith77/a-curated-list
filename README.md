@@ -10,3 +10,5 @@
 - [nps](https://github.com/sezna/nps) All the benefits of npm scripts without the cost of a bloated package.json and limits of json.
 - [execa](https://github.com/sindresorhus/execa) Process execution for humans.
 - [picocolors](https://github.com/alexeyraspopov/picocolors) The tiniest and the fastest library for terminal output formatting with ANSI colors.
+- [commander.js](https://github.com/tj/commander.js) The complete solution for node.js command-line interfaces.
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js/) A collection of common interactive command line user interfaces.
