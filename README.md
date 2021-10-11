@@ -16,7 +16,8 @@
 ## React
 
 ### UI
-- [linaria](https://github.com/callstack/linaria) Zero-runtime CSS in JS library
+- [linaria](https://github.com/callstack/linaria) Zero-runtime CSS in JS library.
+- [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript ✨.
 
 ## A11Y
 
