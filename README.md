@@ -8,6 +8,8 @@
 - [picocolors](https://github.com/alexeyraspopov/picocolors) The tiniest and the fastest library for terminal output formatting with ANSI colors.
 - [commander.js](https://github.com/tj/commander.js) The complete solution for node.js command-line interfaces.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js/) A collection of common interactive command line user interfaces.
+- [open](https://github.com/sindresorhus/open) Open stuff like URLs, files, executables. Cross-platform.
+- [slug](https://github.com/Trott/slug) Slugifies even utf-8 chars!
 
 ## React
 ### Design System
