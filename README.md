@@ -25,6 +25,17 @@
 - [dnd-kit](https://dndkit.com/) A modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [react-dnd](https://react-dnd.github.io/react-dnd) Drag and Drop for React.
 
+### Testing
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
+- [React Hooks Testing Library](https://react-hooks-testing-library.com/) 🐏 Simple and complete React hooks testing utilities that encourage good testing practices.
+
+## Testing
+### Framework
+- [Jest](https://jestjs.io/) Delightful JavaScript Testing.
+
+### Mock
+- [Mock Service Worker](https://mswjs.io/) Seamless REST/GraphQL API mocking library for browser and Node.js.
+
 ## A11Y
 - [React Aria](https://react-spectrum.adobe.com/react-aria/index.html) A library of React Hooks that provides accessible UI primitives for your design system.
 - [keyboard-interaction](https://www.w3.org/TR/wai-aria-practices-1.1/#keyboard-interaction-19)
