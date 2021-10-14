@@ -22,6 +22,7 @@
 - [stitches](https://github.com/modulz/stitches) CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 
 ## A11Y
+- [React Aria](https://react-spectrum.adobe.com/react-aria/index.html) A library of React Hooks that provides accessible UI primitives for your design system.
 - [keyboard-interaction](https://www.w3.org/TR/wai-aria-practices-1.1/#keyboard-interaction-19)
 
 ## Doc Tools
