@@ -21,6 +21,10 @@
 ### UI Component
 - [react-collapsed](https://github.com/roginfarrer/react-collapsed) A custom hook for creating accessible expand/collapse components in React. Animates the height using CSS transitions from `0` to `auto`.
 
+### Data Visualization
+- [d3](https://d3js.org/) Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+- [visx](https://airbnb.io/visx/) 🐯 visx | visualization components
+
 ### Drag & Drop
 - [dnd-kit](https://dndkit.com/) A modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [react-dnd](https://react-dnd.github.io/react-dnd) Drag and Drop for React.
