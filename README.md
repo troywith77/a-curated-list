@@ -19,6 +19,7 @@
 - [linaria](https://github.com/callstack/linaria) Zero-runtime CSS in JS library.
 - [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript ✨.
 - [styled-system](https://github.com/styled-system/styled-system) ⬢ Style props for rapid UI development.
+- [stitches](https://github.com/modulz/stitches) CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 
 ## A11Y
 
