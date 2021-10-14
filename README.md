@@ -18,12 +18,16 @@
 - [styled-system](https://github.com/styled-system/styled-system) ⬢ Style props for rapid UI development.
 - [stitches](https://github.com/modulz/stitches) CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 
-### UI Component
-- [react-collapsed](https://github.com/roginfarrer/react-collapsed) A custom hook for creating accessible expand/collapse components in React. Animates the height using CSS transitions from `0` to `auto`.
-
 ### Data Visualization
 - [d3](https://d3js.org/) Bring data to life with SVG, Canvas and HTML. 📊📈🎉
 - [visx](https://airbnb.io/visx/) 🐯 visx | visualization components
+
+### Animation
+- [React Spring](https://react-spring.io/) ✌️ A spring physics based React animation library.
+- [Framer Motion](https://www.framer.com/motion/) Open source, production-ready animation and gesture library for React.
+
+### UI Component
+- [react-collapsed](https://github.com/roginfarrer/react-collapsed) A custom hook for creating accessible expand/collapse components in React. Animates the height using CSS transitions from `0` to `auto`.
 
 ### Drag & Drop
 - [dnd-kit](https://dndkit.com/) A modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
