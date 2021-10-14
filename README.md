@@ -21,6 +21,10 @@
 - [styled-system](https://github.com/styled-system/styled-system) ⬢ Style props for rapid UI development.
 - [stitches](https://github.com/modulz/stitches) CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 
+### DnD
+- [dnd-kit](https://dndkit.com/) A modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
+- [react-dnd](https://react-dnd.github.io/react-dnd) Drag and Drop for React.
+
 ## A11Y
 - [React Aria](https://react-spectrum.adobe.com/react-aria/index.html) A library of React Hooks that provides accessible UI primitives for your design system.
 - [keyboard-interaction](https://www.w3.org/TR/wai-aria-practices-1.1/#keyboard-interaction-19)
