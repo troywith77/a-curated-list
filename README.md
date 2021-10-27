@@ -11,6 +11,9 @@
 - [open](https://github.com/sindresorhus/open) Open stuff like URLs, files, executables. Cross-platform.
 - [slug](https://github.com/Trott/slug) Slugifies even utf-8 chars!
 
+## NPM
+- [patch-package](https://github.com/ds300/patch-package) Fix broken node modules instantly 🏃🏽‍♀️💨
+
 ## React
 ### Design System
 - [linaria](https://github.com/callstack/linaria) Zero-runtime CSS in JS library.
