@@ -20,6 +20,7 @@
 - [polished](https://github.com/styled-components/polished) A lightweight toolset for writing styles in JavaScript ✨.
 - [styled-system](https://github.com/styled-system/styled-system) ⬢ Style props for rapid UI development.
 - [stitches](https://github.com/modulz/stitches) CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
+- [vanilla-extract](https://github.com/seek-oss/vanilla-extract) Zero-runtime Stylesheets-in-TypeScript
 
 ### Data Visualization
 - [d3](https://d3js.org/) Bring data to life with SVG, Canvas and HTML. 📊📈🎉
