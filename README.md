@@ -32,6 +32,7 @@
 
 ### UI Component
 - [react-collapsed](https://github.com/roginfarrer/react-collapsed) A custom hook for creating accessible expand/collapse components in React. Animates the height using CSS transitions from `0` to `auto`.
+- [dayzed](https://github.com/deseretdigital/dayzed) Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components.
 
 ### Drag & Drop
 - [dnd-kit](https://dndkit.com/) A modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
