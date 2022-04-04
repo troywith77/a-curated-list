@@ -21,6 +21,7 @@
 - [styled-system](https://github.com/styled-system/styled-system) ⬢ Style props for rapid UI development.
 - [stitches](https://github.com/modulz/stitches) CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) Zero-runtime Stylesheets-in-TypeScript
+- [atomize](https://github.com/proksh/atomize) Design System for developers build on styled-components & React JS.
 
 ### Data Visualization
 - [d3](https://d3js.org/) Bring data to life with SVG, Canvas and HTML. 📊📈🎉
